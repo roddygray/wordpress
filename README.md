@@ -1,0 +1,2 @@
+# wordpress
+WordPress install scripts.
